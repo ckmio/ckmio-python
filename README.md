@@ -7,3 +7,5 @@ Simple and powerfull set of APIs to build the best realtime applications on ever
 
 # About ckmio-python
 Add realtime capabilities to your Python applications using ckmio-python client. Connect easily and enjoy writing realtime apps in your favourite language.
+
+#How to use it
